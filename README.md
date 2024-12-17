@@ -37,7 +37,7 @@
 ![image](https://github.com/user-attachments/assets/28e2e818-09a4-41e8-b7d4-17bb4fa27adb)
 
 
-добавление нескольких заказов
+добавление нескольких товаров
 
 
 ![image](https://github.com/user-attachments/assets/2465af03-d35e-480b-94cc-cfee2e0602b8)
